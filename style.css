@@ -396,6 +396,10 @@ a {
     margin-bottom: 50px;
 }
 
+.blog-tips-item:hover a {
+    color: #4db2ec !important;
+}
+
 /* .blog-tips-img {
     width: 218px;
 }
@@ -569,6 +573,10 @@ a {
 
     .blog-tips-item .blog-content p {
         display: none;
+    }
+
+    .blog-tips-img img {
+        width: 100%;
     }
 
     .content-side h2 {
