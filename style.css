@@ -465,8 +465,23 @@ a {
     border-style: solid;
     border-color: #ededed;
     border-width: 1px 0;
-    padding: 21px 0;
+    padding: 40px 20px;
     margin-bottom: 42px;
+}
+
+.td-post-sharing-classic-likeBtn {
+    border-radius: 3px;
+    font-size: 11px;
+    height: 20px;
+    padding: 0 6px;
+    display: flex;
+    align-items: center;
+    gap: 5px;
+    background-color: rgb(12 132 238);
+    color: #fff;
+    width: fit-content;
+    font-weight: 700;
+
 }
 
 .td-post-next-prev-content span {
